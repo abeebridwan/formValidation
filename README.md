@@ -1,2 +1,2 @@
 # formValidation
-A simple manual form validation
+A simple manual form validation with error messages
